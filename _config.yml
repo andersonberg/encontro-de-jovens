@@ -7,13 +7,13 @@ permalink: /:title.html
 
 # Conference info
 conf:
-  name: "Conference name"
-  description: "Conference description"
-  date: "November 15"
-  price: "$100"
-  address: "Boulevard Kukulcan, 30, México"
-  venue: "Coco Bongo"
-  city: "Cancún"
+  name: "Encontro de Jovens"
+  description: "Encontro de Jovens da Igreja Evangélica Assembléia de Deus"
+  date: "28 de fevereiro"
+  price: ""
+  address: "Avenida Cruz Cabugá, 29"
+  venue: "Templo Central"
+  city: "Recife"
 
 # Site info
 site:
@@ -21,17 +21,17 @@ site:
   favicon: "http://braziljs.org/favicon.ico"
   googleanalytics: "UA-33656081-1"
   images:
-    cover: "http://f.cl.ly/items/2X28422q1e3w0C2U1P3H/866591_24254643.jpg"
+    cover: "http://2.bp.blogspot.com/-O-C3yd6NEEc/USUzQB9TNgI/AAAAAAAADIA/_Zqlh1FhYhI/s1600/T.CENTRAL.jpg"
     facebook: "http://braziljs.org/img/fb-share.jpg"
 
 # Active sections on the website
 sections:
   about: true
   location: true
-  speakers: true
-  schedule: true
+  speakers: false
+  schedule: false
   sponsors: true
-  partners: true
+  partners: false
   contact: false
 
 # The entire schedule
